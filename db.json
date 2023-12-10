@@ -1,21 +1,23 @@
-{ 
-"id" : "1",
-"name" : "Robbie Correll",
-"beroep" : "Chiropractor",
-"locatie" : "ChiroPro",
-"persoonlijk" : "0638414193"
-},
-{ 
-"id" : "2",
-"name" : "Berrie Gerrits",
-"beroep" : "Psycholoog",
-"locatie" : "Gerrits Psychologie",
-"persoonlijk" : "0612345678"
-},
-{ 
-"id" : "3",
-"name" : "Charlotte Houtakkers",
-"beroep" : "Vestibulair Fysio",
-"locatie" : "PhysioBalance",
-"persoonlijk" : "0612345678"
-}
+[
+    { 
+        "id" : "1",
+        "name" : "Robbie Correll",
+        "beroep" : "Chiropractor",
+        "locatie" : "ChiroPro",
+        "persoonlijk" : "0638414193"
+    },
+    { 
+        "id" : "2",
+        "name" : "Berrie Gerrits",
+        "beroep" : "Psycholoog",
+        "locatie" : "Gerrits Psychologie",
+        "persoonlijk" : "0612345678"
+    },
+    { 
+        "id" : "3",
+        "name" : "Charlotte Houtakkers",
+        "beroep" : "Vestibulair Fysio",
+        "locatie" : "PhysioBalance",
+        "persoonlijk" : "0612345678"
+    }
+]
