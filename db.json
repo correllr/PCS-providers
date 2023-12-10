@@ -1,4 +1,4 @@
-[
+{"providers": [
     { 
         "id" : "1",
         "name" : "Robbie Correll",
@@ -20,4 +20,4 @@
         "locatie" : "PhysioBalance",
         "persoonlijk" : "0612345678"
     }
-]
+]}
