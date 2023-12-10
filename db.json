@@ -21,6 +21,13 @@
             "beroep" : "Vestibulair Fysio",
             "locatie" : "PhysioBalance",
             "persoonlijk" : "0612345678"
+        },
+        {
+            "id" : "4",
+            "name" : "Annique",
+            "beroep" : "Chiropractor",
+            "locatie" : "ChiroPro",
+            "persoonlijk" : "0612345678"
         }
     ]
 }
